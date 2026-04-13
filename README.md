@@ -1,11 +1,25 @@
 # magist-tech-market-fit-analysis
-This project evaluates whether Eniac, a premium Apple-focused e-commerce company, should partner with Magist to support its expansion into the Brazilian market. The analysis focuses on product value alignment, delivery performance, and operational risk to determine if Magist can meet Eniac’s premium service standards.
+This project was completed as part of a Data Analytics course, where we were given a real-world business scenario:
+
+Should a premium electronics company (Eniac) partner with Magist to enter the Brazilian market?
+
+The objective was to use data analysis to support a clear business decision based on operational performance, market fit, and risk.
 
 ## Business Problem
 
-Can Magist’s logistics performance support Eniac’s high-value product strategy and premium customer experience in Brazil?
+Can Magist’s logistics and marketplace structure support Eniac’s premium product strategy and customer experience standards?
 
-#Business Context
+# Approach
+Tools Used:
+SQL → joins, and analysis
+Tableau → Data visualization and dashboards
+
+Analysis Areas:
+Product value and market positioning
+Revenue and category distribution
+Delivery time and delay patterns
+
+# Business Context
 
 About Eniac:
 Premium electronics marketplace (Apple-focused)
@@ -13,53 +27,56 @@ Average order value: $710
 Average item price: $514
 Strong emphasis on high-quality customer experience
 
-#Expansion Goal:
-
-Enter the Brazilian market within one year
-Maintain premium delivery standards
-Protect brand reputation
-
-#Key Findings
+# Key Analysis and Findings
 Product Value Mismatch
 Magist average product price: $120.65
 Eniac average item price: $514
 Eniac products are over 4× more valuable
 
-#1 Insight:
-Magist’s infrastructure is optimized for low-to-mid value goods, not premium electronics.
+# 1 Insight:
+Magist is optimized for low-to-mid value goods, not premium electronics.
 
-Delivery Time Performance
+Delivery Performance
 Brazil market benchmark: 8–13 days
 Magist average delivery time: ~12 days
 Some deliveries take up to 30 days
 
-#2 Insight:
-Magist operates at the slower end of the acceptable range, which is risky for premium service expectations.
+# 2 Insight:
+While average performance is acceptable, high variability and extreme delays create risk for customer satisfaction.
 
 Delivery Reliability Risk
 ~7.3% of orders are delayed
 Larger products are delayed more frequently
 High variability in delivery times
 
-#3 Insight:
+# 3 Insight:
 Inconsistent delivery performance increases customer dissatisfaction risk, especially for high-value items.
 
-#Key Risks/Risk Assessments
-Misalignment between product value and logistics capability
-Delivery delays impacting customer experience
-High variability in delivery times
-Increased risk for fragile and high-value products
+Market Fit (Tech Segment)
+Tech products ≈ 10% of total sales
+Tech sellers ≈ 15% of sellers
 
-#Final Recommendation
+# 4 Insight:
+Magist has limited presence in the tech category, making it a weak fit for Eniac’s core business.
+
+# Key Risks/Risk Assessments
+Misalignment between product value and logistics capability
+Inconsistent delivery performance
+Weak seller ecosystem for premium goods
+High variability in delivery times
+
+# Final Recommendation
 
 Do NOT select Magist as the primary logistics partner
 
-Rationale:
-Significant value mismatch between Eniac and Magist products
-Delivery performance does not meet premium expectations
-High variability introduces operational and reputational risk
+Reason:
+Magist’s operational model does not meet the requirements for:
 
-#Conclusion
+premium delivery standards
+high-value product handling
+consistent customer experience
 
-Magist is a functioning marketplace for lower-cost products, but its logistics capabilities are not suitable for supporting a premium electronics brand like Eniac. 
-A partnership would risk delivery delays, customer dissatisfaction, and brand damage.
+# Conclusion
+
+Magist is a viable platform for low-cost products, but not suitable for supporting a premium electronics brand like Eniac. 
+A partnership would introduce delivery risk, customer dissatisfaction, and potential brand damage.
