@@ -67,10 +67,13 @@ High variability introduces operational and reputational risk
 Magist is a viable platform for low-cost products, but not suitable for supporting a premium electronics brand like Eniac. 
 A partnership would introduce delivery risk, customer dissatisfaction, and potential brand damage.
 
-## Approach
-Tools Used:
-SQL → joins and analysis
-Tableau → Data visualization and dashboards
+## Tools Used:
+
+SQL → joins e.t.c to explore and analyze Magist's database.
+
+Tableau → Data visualization and insights.
+
+Recommendations based on the data findings.
 
 ## Key Learning
 Through this project, I developed the ability to:
@@ -84,5 +87,7 @@ Connect data findings to strategic business decisions
 This project demonstrates how data analysis can be used to:
 
 Evaluate market entry strategies
+
 Identify operational risks
+
 Support high-impact business decisions
