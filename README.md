@@ -1,9 +1,9 @@
 ## magist-tech-market-fit-analysis
 
 ## Executive Summary
-Magist operates primarily in the low-cost product segment (~$120 avg price)
-Eniac targets the premium electronics market (~$514 avg price)
-Delivery performance shows inconsistency, with ~7% delayed orders
+Magist operates primarily in the low-cost product segment ($120 avg price)
+Eniac targets the premium electronics market ($514 avg price)
+Delivery performance shows inconsistency, with 7% delayed orders
 
 👉 Conclusion: Magist is not suitable for a premium partnership due to strategic misalignment and operational risk
 
@@ -12,61 +12,37 @@ This project was completed as part of a Data Analytics course and evaluates whet
 
 The objective was to use data analysis to support a clear business decision based on operational performance, market fit, and risk.
 
+## Business Context
+
+About Eniac:
+Premium electronics e-commerce marketplace (Apple-focused)
+Average order value: $710
+Average item price: $514
+Strong emphasis on high-quality customer experience
+
 ## Business Problem
 
 Can Magist’s logistics and marketplace structure support Eniac’s high-value product strategy and premium customer experience in Brazil?
 
 ## Analysis Areas:
 Defined the core business objective: market entry decision
+
 Identified key evaluation areas:
   Product pricing and market positioning
+  
   Delivery performance and reliability
+  
   Revenue and category distribution
+  
 Segmented data into tech vs non-tech categories
+
 Assessed risks relative to premium business requirements
-
-## Business Context
-
-About Eniac:
-Premium electronics marketplace (Apple-focused)
-Average order value: $710
-Average item price: $514
-Strong emphasis on high-quality customer experience
 
 ## Key Analysis and Findings
 Product Value Mismatch
 Magist average product price: $120.65
 Eniac average item price: $514
 Eniac products are over 4× more valuable
-
-## 1 Insight:
-Magist is optimized for low-to-mid value goods, not premium electronics.
-Revenue is dominated by non-tech categories, highlighting weak tech positioning.
-
-Delivery Performance
-Brazil market benchmark: 8–13 days
-Magist average delivery time: ~12 days
-Some deliveries take up to 30 days
-
-Performance is at the upper limit of acceptable range
-
-## 2 Insight:
-While average performance is acceptable, high variability and extreme delays create risk for customer satisfaction.
-
-Delivery Reliability Risk
-~7.3% of orders are delayed
-Larger products are delayed more frequently
-High variability in delivery times
-
-## 3 Insight:
-Inconsistent delivery performance increases customer dissatisfaction risk, especially for high-value items.
-
-Market Fit (Tech Segment)
-Tech products ≈ 10% of total sales
-Tech sellers ≈ 15% of sellers
-
-## 4 Insight:
-Magist has limited presence in the tech category, making it a weak fit for Eniac’s core business.
 
 ## Key Risks/Risk Assessments
 Misalignment between product value and logistics capability
